@@ -55,11 +55,10 @@ Este proyecto garantiza la correcta operación del proceso de solicitud de taxi,
   <img src="https://github.com/RafaelZeCe83/qa-project-Urban-Routes-es/blob/master/Urban%20Routes.png" alt="Test example image">
 </a>
 
-[🔗Publicación](https://github.com/RafaelZeCe83/qa-project-Urban-Routes-es)
 
 <div style="width: 100%; display: flex; justify-content: center;">
   <a href="https://github.com/RafaelZeCe83/qa-project-Urban-Routes-es" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" alt="Publicación en GitHub">
+    <img src="https://img.shields.io/badge/Publicación-000?style=for-the-badge&logo=github&logoColor=white" alt="Publicación en GitHub">
   </a>
 </div>
                  
