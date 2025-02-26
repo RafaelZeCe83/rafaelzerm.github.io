@@ -59,7 +59,7 @@ Este proyecto garantiza la correcta operación del proceso de solicitud de taxi,
 
 <div style="width: 100%; display: flex; justify-content: center;">
   <a href="https://github.com/RafaelZeCe83/qa-project-Urban-Routes-es" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" alt="Publicación en GitHub">
   </a>
 </div>
                  
