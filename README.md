@@ -1,6 +1,19 @@
 # Acerca de mi
 
-Ingeniero Industrial y certificación como QA Engineer. Cuento con conocimientos en pruebas manuales, diseño de casos de prueba y gestión de defectos, así como en herramientas como Selenium, Postman y JIRA.
+Ingeniero Industrial y certificación como QA Engineer. Cuento con conocimientos en pruebas manuales, diseño de casos de prueba y gestión de defectos, así como en herramientas como:
+
+
+<div align="center">
+    <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium">
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
+    <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira">
+    <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio">
+    <img src="https://img.shields.io/badge/ChatGPT-008C6C?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+    <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm">
+</div>
+
+
 
 Mi trayectoria en áreas de control de calidad, mejora de procesos y documentación me ha permitido desarrollar una mentalidad analítica, atención al detalle y enfoque en la resolución de incidencias. Aporto experiencia en la gestión de información crítica, análisis de datos y optimización de procesos, lo que me ha dado una perspectiva integral sobre la calidad y eficiencia operativa.
 
@@ -29,10 +42,11 @@ Mi trayectoria en áreas de control de calidad, mejora de procesos y documentaci
 - Pensamiento crítico.
 - Atención al detalle.
 
-
-<a href="https://www.linkedin.com/in/rafael-zermeno" target="_blank">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
+<div align="center">
+  <a href="https://www.linkedin.com/in/rafael-zermeno" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</div>
 
 ## Proyectos
 
@@ -72,6 +86,14 @@ Este proyecto garantiza la correcta operación del proceso de solicitud de taxi,
   </a>
 </div>
 
+
+## Otros proyectos puedes consultar mi GitHub
+
+<div align="center">
+  <a href="https://github.com/RafaelZeCe83">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+</div>
 
 ## Contacto
 [![Hotmail](https://img.shields.io/badge/Hotmail-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:razc83@hotmail.com)
