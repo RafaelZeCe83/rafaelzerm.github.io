@@ -38,6 +38,16 @@ Mi trayectoria en áreas de control de calidad, mejora de procesos y documentaci
 
 ### Automatización de pruebas para Urban.Routes
 
+<div align="center">
+    <h3>Herramientas utilizadas</h3>
+    <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" alt="PyCharm">
+    <a href="https://www.atlassian.com/software/jira">
+        <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira">
+    </a>
+    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    <img src="https://img.shields.io/badge/pytest-%23ffffff.svg?style=for-the-badge&logo=pytest&logoColor=2f9fe3" alt="Pytest">
+</div>
+
 ### Descripción:
 
 Este proyecto consistió en una suite de pruebas automatizadas diseñada para validar la funcionalidad del proceso de solicitud de taxi en la página web de Urban Routes.
@@ -61,8 +71,8 @@ Este proyecto garantiza la correcta operación del proceso de solicitud de taxi,
     <img src="https://img.shields.io/badge/Publicación-000?style=for-the-badge&logo=github&logoColor=white" alt="Publicación en GitHub">
   </a>
 </div>
+
+
+## Contacto
+[![Hotmail](https://img.shields.io/badge/Hotmail-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:razc83@hotmail.com)
                  
-
-
-
-
