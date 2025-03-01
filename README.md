@@ -97,4 +97,10 @@ Este proyecto garantiza la correcta operación del proceso de solicitud de taxi,
 
 ## Contacto
 [![Hotmail](https://img.shields.io/badge/Hotmail-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:razc83@hotmail.com)
+
+
+<a href="https://www.linkedin.com/in/rafael-zermeno" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+
                  
