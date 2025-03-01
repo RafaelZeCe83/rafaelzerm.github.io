@@ -2,4 +2,4 @@ title: Rafael Zermeño Cervantes
 logo: RafaelZermeño_Github.PNG
 description: ¡Hola! bienvenidos a mi portafolio de proyectos de QA Engineer.
 show_downloads: false
-remote_theme: Merlot
+theme: jekyll-theme-minimal
